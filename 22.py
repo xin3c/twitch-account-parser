@@ -1,6 +1,6 @@
 from twitchobserver import Observer
 
-newf = open("new.txt", 'w')
+newf = open("new.txt", 'w+')
 good_accounts = []
 channel = 'in3c'
 
